@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![gifgif](https://user-images.githubusercontent.com/111366687/235348200-7dd6d152-17dd-4ae7-ae37-d3e7dd9f311d.gif)
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
   
 # 💫 About Me:
