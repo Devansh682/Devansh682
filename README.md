@@ -1,11 +1,11 @@
 <div align="center">
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="500" />
 
   
-# 💫 About Me:
+# 💫 Hey!, I am Devansh!:
 
-Hi! I am Devansh. I'm an undergrad student at SRMIST pursuing B.Tech in Computer Science and Engineering. Thank you for viewing my GitHub profile!
+ I'm an undergrad student at SRMIST pursuing B.Tech in Computer Science and Engineering. Thank you for viewing my GitHub profile!
 
 
 ## 🌐 Socials:
