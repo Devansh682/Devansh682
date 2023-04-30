@@ -1,5 +1,8 @@
 <div align="center">
 
+  ![gifgif](https://user-images.githubusercontent.com/111366687/235348200-7dd6d152-17dd-4ae7-ae37-d3e7dd9f311d.gif)
+
+  
 # 💫 About Me:
 
 Hi! I am Devansh. I'm an undergrad student at SRMIST pursuing B.Tech in Computer Science and Engineering. Thank you for viewing my GitHub profile!
