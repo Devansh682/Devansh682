@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi! I am Devansh. I'm a student at SRMIST pursuing B.Tech in Computer Science and Engineering. Thank you for viewing my GitHub profile!
+Hi! I am Devansh. I'm an undergrad student at SRMIST pursuing B.Tech in Computer Science and Engineering. Thank you for viewing my GitHub profile!
 
 
 ## 🌐 Socials:
