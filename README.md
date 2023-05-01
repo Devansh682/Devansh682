@@ -6,10 +6,22 @@
 #  Hey!👋, I am Devansh
 
  I'm an undergrad student at SRMIST pursuing B.Tech in Computer Science and Engineering. Thank you for viewing my GitHub profile!
+<div align="left">
+<br />
 
-
+  - 🔭 I’m currently working on Web Development 
+  
+  - 🌱 I’m currently learning Data Structures and Algorithms
+  
+  - 👯 I’m looking to collaborate on Front-end projects
+  
+  - ⚡ Fun fact: I enjoy reading novels and playing cricket
+<div align="center">
+  
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devanshh._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshsingh25) 
+  
 
 
 # 💻 Tech Stack:
