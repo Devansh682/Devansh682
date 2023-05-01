@@ -36,5 +36,7 @@
                                                   
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Devansh682&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+  
+  <p align="centre"> <img src="https://komarev.com/ghpvc/?username=Devansh682&label=Profile%20views&color=0e75b6&style=flat" alt="Devansh682" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
