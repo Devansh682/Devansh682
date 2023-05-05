@@ -1,12 +1,12 @@
 <div align="center">
 
-<!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />-->
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="500" />
 
   
 #  Hey!👋, I am Devansh
   
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
-<div align="left">
+ <!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
+<div align="left">-->
  I'm an undergrad student at SRMIST pursuing B.Tech in Computer Science and Engineering. Thank you for viewing my GitHub profile!
 <div align="left">
 <br />
