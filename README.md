@@ -1,13 +1,16 @@
 <div align="center">
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="500" />
+<!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />-->
 
   
 #  Hey!👋, I am Devansh
-
+  
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
+<div align="left">
  I'm an undergrad student at SRMIST pursuing B.Tech in Computer Science and Engineering. Thank you for viewing my GitHub profile!
 <div align="left">
 <br />
+
 
   - 🔭 I’m currently working on Web Development 
   
@@ -18,6 +21,7 @@
   - ⚡ Fun fact: I like to play cricket and read novels
 <div align="center">
   
+ <br /> 
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devanshh._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshsingh25) 
