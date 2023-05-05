@@ -19,6 +19,7 @@
   - 👯 I’m looking to collaborate on Front-end projects
   
   - ⚡ Fun fact: I like to play cricket and read novels
+  
 <div align="center">
   
  <br /> 
